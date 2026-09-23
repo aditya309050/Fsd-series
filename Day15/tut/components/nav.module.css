@@ -1,0 +1,13 @@
+.listitems {
+  padding: 12px 24px;
+  margin: 0;
+  display: flex;
+  list-style: none;
+  gap: 16px;
+  background-color: black;
+  color: white;
+}
+
+.listitem {
+  list-style: none;
+}
